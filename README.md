@@ -21,7 +21,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all pyt
 4. Open your browser and open url http://127.0.0.1:5000/
 
 
-### Demo Video- https://youtu.be/uNrjhSZBpFw
+
 ![Demo GIF](https://github.com/satyam-seth/diabetes_prediction/blob/main/demo.gif)
 "# Diabetes-Prediction" 
 "# Diabetes-Prediction" 
